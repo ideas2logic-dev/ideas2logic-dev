@@ -1,8 +1,8 @@
 # 🧠 Ideas2Logic
-🚀 Welcome to Ideas2Logic
-🧠 Real-world tech. Custom Web & Mobile Apps.
-👨‍💻 Software Services + 🎓 Academy
-📚 Learn | 💼 Build | 🚀 Launch
+- 🚀 Welcome to Ideas2Logic
+- 🧠 Real-world tech. Custom Web & Mobile Apps.
+- 👨‍💻 Software Services + 🎓 Academy
+- 📚 Learn | 💼 Build | 🚀 Launch
 
 **Turning Ideas into Scalable Logic**
 
